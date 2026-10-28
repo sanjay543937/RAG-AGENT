@@ -1,0 +1,6 @@
+
+
+The standard workday starts at 9:00 AM and ends at 6:00 PM.
+Employees should record attendance using the company attendance system.
+Employees who expect to arrive late should inform their manager.
+Missing attendance records should be reported to HR within 2 working days.

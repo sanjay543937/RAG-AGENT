@@ -1,0 +1,6 @@
+IT SUPPORT — PRACTICE DATA
+
+Employees should create an IT ticket for laptop or software problems.
+The ticket should include the issue, device name, and a description of what happened.
+Employees should never share passwords or API keys in support tickets.
+For urgent access issues, contact the IT support team through the approved company channel.
